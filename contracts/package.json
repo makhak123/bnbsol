@@ -1,0 +1,14 @@
+{
+  "name": "bnb-solana-bridge-contracts",
+  "version": "1.0.0",
+  "description": "BNB Chain smart contracts for Solana bridge",
+  "scripts": {
+    "build": "forge build",
+    "test": "forge test",
+    "deploy:testnet": "forge script script/Deploy.s.sol --rpc-url $BNB_TESTNET_RPC --broadcast",
+    "deploy:mainnet": "forge script script/Deploy.s.sol --rpc-url $BNB_MAINNET_RPC --broadcast --verify"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
