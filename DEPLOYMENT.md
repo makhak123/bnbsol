@@ -141,5 +141,5 @@ solana program show $PROGRAM_ID
 ## Support
 
 For issues or questions:
-- GitHub Issues: https://github.com/bnb-solana/bridge/issues
+- GitHub Issues: https://github.com/makhak123/v0-bnb-on-solana/issues
 - Documentation: https://docs.bnb-solana.bridge

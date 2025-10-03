@@ -60,16 +60,18 @@ export function Hero() {
             {">"} VIEW TECHNICAL SPECS
           </a>
           <a
-            href="#repository"
+            href="https://github.com/makhak123/v0-bnb-on-solana"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-8 py-3 border border-primary text-primary rounded hover:bg-primary/10 transition-all hover:shadow-[0_0_20px_rgba(0,255,0,0.2)] font-mono text-sm md:text-base"
           >
             {">"} ACCESS REPOSITORY
           </a>
         </div>
-      </div>
 
-      <div className="absolute bottom-10 left-1/2 -translate-x-1/2 animate-bounce">
-        <div className="text-primary/50 text-2xl">▼</div>
+        <div className="absolute bottom-10 left-1/2 -translate-x-1/2 animate-bounce">
+          <div className="text-primary/50 text-2xl">▼</div>
+        </div>
       </div>
     </section>
   )

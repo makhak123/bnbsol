@@ -66,8 +66,8 @@ foundryup
 
 \`\`\`bash
 # Clone repository
-git clone https://github.com/bnb-solana/bridge
-cd bridge
+git clone https://github.com/makhak123/v0-bnb-on-solana
+cd v0-bnb-on-solana
 
 # Build Solana program
 cd bridge-program

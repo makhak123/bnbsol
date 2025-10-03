@@ -48,8 +48,8 @@ export function CodeRepository() {
             <div className="bg-background/80 border border-primary/20 rounded p-4">
               <pre className="text-xs md:text-sm text-primary">
                 <code>{`# Clone the production repository
-git clone https://github.com/bnb-solana/bridge
-cd bridge
+git clone https://github.com/makhak123/v0-bnb-on-solana
+cd v0-bnb-on-solana
 
 # One-command deployment
 chmod +x scripts/deploy.sh
