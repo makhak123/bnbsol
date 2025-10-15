@@ -1,6 +1,8 @@
 # BNB-Solana Bridge
 
 > "Fork BNB and run it on Solana" - @aeyakovenko
+>
+> ArN3hnLEVNYQAYBd8QsA3KfWnm7T6eHqAzVZjmrSpump
 
 ## 🎯 Overview
 
