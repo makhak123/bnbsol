@@ -1,9 +1,5 @@
 # BNB-Solana Bridge
 
-> "Fork BNB and run it on Solana" - @aeyakovenko
->
-> ArN3hnLEVNYQAYBd8QsA3KfWnm7T6eHqAzVZjmrSpump
-
 ## 🎯 Overview
 
 Production-ready bridge implementation enabling BEP-20 tokens to move between BNB Chain and Solana with trustless, validator-secured consensus.
